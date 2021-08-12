@@ -4,5 +4,5 @@ In the project, I'm going to use and practice React - Redux by building a projec
 
 https://friendly-spence-a43ce0.netlify.app/
 
-<img src=''>
-<img src=''>
+<img src='https://github.com/TotoroDavid/fake-shop-using-redux-/blob/master/Screen%20Shot%202021-08-12%20at%208.29.01%20am.png?raw=true'>
+<img src='https://github.com/TotoroDavid/fake-shop-using-redux-/blob/master/Screen%20Shot%202021-08-12%20at%208.29.14%20am.png?raw=true'>
